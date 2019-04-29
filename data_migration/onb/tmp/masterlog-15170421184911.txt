@@ -1,0 +1,91 @@
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[21/Apr/2017:22:19:12] (user_structure) 
+Program Execution Starts 
+ +-+-+-+-+-+-+-+ +-+-+-+-+-+-+-+
+ |S|A|U|R|A|B|H| |C|H|H|A|B|R|A|
+ +-+-+-+-+-+-+-+ +-+-+-+-+-+-+-+
+
+
+[21/Apr/2017:22:19:13] (user_structure) 
+******* Called Form Command Line (CLI) Script********** 
+
+Notice: Undefined variable: toDecrypt in C:\xampp\htdocs\data_migration\encryption\DecryptionClass.php on line 47
+
+
+   ____   __    ____   ___    __    ____   ___    ___    _  __        __  ___   ____  _____   ___    ___  ______   ____  ____    _  __
+  / __/  / /   /  _/  / _ \  / /   / __/  / _ |  / _ \  / |/ /       /  |/  /  /  _/ / ___/  / _ \  / _ |/_  __/  /  _/ / __ \  / |/ /
+ / _/   / /__ _/ /   / ___/ / /__ / _/   / __ | / , _/ /    /       / /|_/ /  _/ /  / (_ /  / , _/ / __ | / /    _/ /  / /_/ / /    / 
+/_/    /____//___/  /_/    /____//___/  /_/ |_|/_/|_| /_/|_/       /_/  /_/  /___/  \___/  /_/|_| /_/ |_|/_/    /___/  \____/ /_/|_/  
+                                                                                                                                      
+
+***************DATA***********MIGRATION*************
+***********************BY********************
+
+
+******************************************************* 
+22:19:12 Library Loaded 
+******************************************************* 
+ +-+-+-+-+-+-+-+ +-+-+-+-+-+-+-+
+ |S|A|U|R|A|B|H| |C|H|H|A|B|R|A|
+ +-+-+-+-+-+-+-+ +-+-+-+-+-+-+-+
+
+
+Params 1 : migration
+
+Params 2 : 8
+
+Params 3 : live
+
+Params 4 : 4
+
+Notice: Undefined variable: debug in C:\xampp\htdocs\data_migration\onb\uonb\user_structure.php on line 86
+
+Notice: Undefined variable: debug in C:\xampp\htdocs\data_migration\onb\uonb\user_structure.php on line 86
+
+[21/Apr/2017:22:19:13] (user_structure) 
+
+Sql Query Start Time Checking Rules [22:19:13 2017-04-21] 
+
+[21/Apr/2017:22:19:13] (user_structure) 
+
+22:19:13  School ID Found in Database
+So Migration will proceed 
+ 
+
+[21/Apr/2017:22:19:13] (user_structure) 
+
+Performance Metrics Started [22:19:13 2017-04-21] 
+
+[21/Apr/2017:22:19:13] (user_structure) 
+Student Details ( Sheet 1 ) Called 
+
+[21/Apr/2017:22:19:13] (user_structure) 
+
+Sql Query Time Start [22:19:13 2017-04-21] 
+
+[21/Apr/2017:22:19:13] (user_structure) 
+
+Sql Query Time End [22:19:13 2017-04-21] 
+
+[21/Apr/2017:22:19:13] (user_structure) 
+
+Sql Query Time Start [22:19:13 2017-04-21] 
+
+[21/Apr/2017:22:19:13] (user_structure) 
+
+Sql Query Time Start [22:19:13 2017-04-21] 
+
+[21/Apr/2017:22:19:13] (user_structure) 
+
+Sql Query Time Start [22:19:13 2017-04-21] 
+
+[21/Apr/2017:22:19:13] (user_structure) 
+
+Sql Query Time Start [22:19:13 2017-04-21] 
+
+[21/Apr/2017:22:19:14] (user_structure) 
+
+Sql Query Time Start [22:19:14 2017-04-21] 
+

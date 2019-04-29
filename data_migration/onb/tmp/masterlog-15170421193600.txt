@@ -1,0 +1,7272 @@
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[21/Apr/2017:23:06:01] (user_structure) 
+Program Execution Starts 
+ +-+-+-+-+-+-+-+ +-+-+-+-+-+-+-+
+ |S|A|U|R|A|B|H| |C|H|H|A|B|R|A|
+ +-+-+-+-+-+-+-+ +-+-+-+-+-+-+-+
+
+
+[21/Apr/2017:23:06:02] (user_structure) 
+******* Called Form Command Line (CLI) Script********** 
+
+Notice: Undefined variable: toDecrypt in C:\xampp\htdocs\data_migration\encryption\DecryptionClass.php on line 47
+
+
+   ____   __    ____   ___    __    ____   ___    ___    _  __        __  ___   ____  _____   ___    ___  ______   ____  ____    _  __
+  / __/  / /   /  _/  / _ \  / /   / __/  / _ |  / _ \  / |/ /       /  |/  /  /  _/ / ___/  / _ \  / _ |/_  __/  /  _/ / __ \  / |/ /
+ / _/   / /__ _/ /   / ___/ / /__ / _/   / __ | / , _/ /    /       / /|_/ /  _/ /  / (_ /  / , _/ / __ | / /    _/ /  / /_/ / /    / 
+/_/    /____//___/  /_/    /____//___/  /_/ |_|/_/|_| /_/|_/       /_/  /_/  /___/  \___/  /_/|_| /_/ |_|/_/    /___/  \____/ /_/|_/  
+                                                                                                                                      
+
+***************DATA***********MIGRATION*************
+***********************BY********************
+
+
+******************************************************* 
+23:06:01 Library Loaded 
+******************************************************* 
+ +-+-+-+-+-+-+-+ +-+-+-+-+-+-+-+
+ |S|A|U|R|A|B|H| |C|H|H|A|B|R|A|
+ +-+-+-+-+-+-+-+ +-+-+-+-+-+-+-+
+
+
+Params 1 : migration
+
+Params 2 : 35
+
+Params 3 : live
+
+Params 4 : 4
+
+Notice: Undefined variable: debug in C:\xampp\htdocs\data_migration\onb\uonb\user_structure.php on line 86
+
+Notice: Undefined variable: debug in C:\xampp\htdocs\data_migration\onb\uonb\user_structure.php on line 86
+
+[21/Apr/2017:23:06:02] (user_structure) 
+
+Sql Query Start Time Checking Rules [23:06:02 2017-04-21] 
+
+[21/Apr/2017:23:06:02] (user_structure) 
+
+23:06:02  School ID Found in Database
+So Migration will proceed 
+ 
+
+[21/Apr/2017:23:06:02] (user_structure) 
+
+Performance Metrics Started [23:06:02 2017-04-21] 
+
+[21/Apr/2017:23:06:02] (user_structure) 
+Student Details ( Sheet 1 ) Called 
+
+[21/Apr/2017:23:06:02] (user_structure) 
+
+Sql Query Time Start [23:06:02 2017-04-21] 
+
+[21/Apr/2017:23:06:02] (user_structure) 
+
+Sql Query Time End [23:06:02 2017-04-21] 
+
+[21/Apr/2017:23:06:02] (user_structure) 
+
+Sql Query Time Start [23:06:02 2017-04-21] 
+
+[21/Apr/2017:23:06:02] (user_structure) 
+
+Sql Query Time Start [23:06:02 2017-04-21] 
+
+[21/Apr/2017:23:06:02] (user_structure) 
+
+Sql Query Time Start [23:06:02 2017-04-21] 
+
+[21/Apr/2017:23:06:02] (user_structure) 
+
+Sql Query Time Start [23:06:02 2017-04-21] 
+
+[21/Apr/2017:23:06:03] (user_structure) 
+
+Sql Query Time Start [23:06:03 2017-04-21] 
+
+[21/Apr/2017:23:06:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:07] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:07] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:07] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:07] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:07] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:22] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:22] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:22] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:22] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:22] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:22] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:22] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:33] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:33] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:33] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:33] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:33] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:33] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:33] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:34] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:34] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:34] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:34] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:34] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:34] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:34] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:35] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:35] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:35] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:35] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:35] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:35] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:35] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:36] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:36] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:36] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:36] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:36] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:36] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:36] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:37] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:37] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:37] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:37] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:37] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:37] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:38] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:38] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:38] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:38] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:38] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:38] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:38] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:39] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:39] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:39] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:39] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:39] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:39] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:39] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:40] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:40] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:40] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:40] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:40] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:40] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:40] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:41] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:41] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:41] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:41] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:41] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:41] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:41] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:42] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:42] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:42] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:42] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:42] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:42] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:43] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:43] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:43] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:43] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:43] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:43] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:43] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:44] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:44] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:44] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:44] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:44] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:44] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:44] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:45] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:45] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:45] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:45] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:45] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:45] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:45] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:46] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:46] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:46] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:46] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:46] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:46] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:46] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:47] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:47] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:47] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:47] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:47] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:47] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:48] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:48] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:48] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:48] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:48] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:48] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:48] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:49] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:49] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:49] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:49] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:49] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:49] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:49] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:50] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:50] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:50] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:50] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:50] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:50] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:50] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:51] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:51] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:51] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:51] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:51] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:51] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:51] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:52] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:52] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:52] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:52] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:52] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:52] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:52] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:53] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:53] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:53] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:53] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:53] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:53] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:53] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:54] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:54] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:54] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:54] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:54] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:54] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:55] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:55] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:55] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:55] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:55] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:55] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:55] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:56] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:56] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:56] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:56] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:56] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:56] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:56] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:57] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:57] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:57] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:57] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:57] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:57] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:58] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:58] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:58] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:58] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:58] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:58] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:58] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:59] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:59] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:59] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:59] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:59] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:59] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:06:59] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:00] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:00] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:00] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:00] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:00] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:00] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:00] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:01] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:01] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:01] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:01] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:01] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:01] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:01] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:02] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:02] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:02] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:02] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:02] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:02] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:03] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:03] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:03] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:03] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:03] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:03] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:03] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:07] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:07] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:07] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:07] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:07] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:07] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:22] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:22] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:22] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:22] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:22] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:22] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:22] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:33] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:33] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:33] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:33] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:33] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:33] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:33] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:34] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:34] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:34] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:34] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:34] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:34] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:35] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:35] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:35] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:35] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:35] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:35] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:35] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:36] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:36] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:36] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:36] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:36] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:36] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:36] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:37] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:37] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:37] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:37] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:37] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:37] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:37] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:38] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:38] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:38] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:38] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:38] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:38] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:38] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:39] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:39] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:39] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:39] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:39] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:39] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:40] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:40] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:40] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:40] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:40] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:40] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:40] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:41] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:41] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:41] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:41] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:41] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:41] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:41] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:42] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:42] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:42] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:42] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:42] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:42] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:42] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:43] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:43] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:43] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:43] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:43] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:43] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:43] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:44] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:44] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:44] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:44] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:44] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:44] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:44] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:45] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:45] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:45] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:45] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:45] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:45] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:45] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:46] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:46] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:46] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:46] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:46] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:46] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:46] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:47] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:47] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:47] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:47] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:47] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:47] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:48] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:48] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:48] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:48] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:48] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:48] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:48] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:49] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:49] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:49] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:49] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:49] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:49] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:49] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:50] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:50] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:50] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:50] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:50] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:50] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:51] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:51] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:51] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:51] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:51] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:51] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:51] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:52] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:52] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:52] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:52] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:52] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:52] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:52] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:53] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:53] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:53] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:53] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:53] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:53] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:53] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:54] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:54] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:54] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:54] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:54] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:54] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:54] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:55] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:55] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:55] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:55] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:55] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:55] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:56] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:56] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:56] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:56] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:56] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:56] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:56] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:57] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:57] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:57] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:57] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:57] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:57] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:57] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:58] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:58] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:58] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:58] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:58] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:58] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:58] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:59] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:59] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:59] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:59] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:59] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:59] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:07:59] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:00] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:00] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:00] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:00] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:00] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:00] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:00] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:01] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:01] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:01] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:01] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:01] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:01] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:02] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:02] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:02] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:02] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:02] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:02] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:02] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:03] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:03] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:03] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:03] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:03] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:03] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:07] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:07] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:07] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:07] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:22] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:22] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:22] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:22] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:22] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:22] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:22] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:33] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:33] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:33] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:33] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:33] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:33] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:33] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:34] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:34] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:34] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:34] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:34] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:34] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:34] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:35] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:35] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:35] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:35] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:35] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:35] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:35] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:36] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:36] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:36] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:36] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:36] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:36] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:36] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:37] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:37] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:37] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:37] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:37] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:37] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:38] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:38] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:38] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:38] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:38] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:38] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:38] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:39] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:39] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:39] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:39] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:39] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:39] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:39] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:40] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:40] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:40] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:40] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:40] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:40] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:40] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:41] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:41] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:41] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:41] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:41] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:41] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:41] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:42] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:42] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:42] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:42] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:42] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:42] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:42] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:43] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:43] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:43] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:43] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:43] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:43] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:43] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:44] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:44] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:44] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:44] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:44] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:44] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:44] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:45] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:45] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:45] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:45] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:45] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:45] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:45] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:46] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:46] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:46] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:46] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:46] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:46] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:46] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:47] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:47] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:47] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:47] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:47] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:47] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:48] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:48] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:48] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:48] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:48] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:48] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:48] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:49] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:49] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:49] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:49] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:49] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:49] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:49] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:50] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:50] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:50] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:50] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:50] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:50] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:50] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:51] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:51] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:51] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:51] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:51] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:51] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:51] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:52] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:52] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:52] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:52] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:52] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:52] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:52] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:53] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:53] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:53] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:53] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:53] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:53] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:53] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:54] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:54] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:54] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:54] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:54] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:54] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:54] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:55] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:55] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:55] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:55] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:55] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:55] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:55] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:56] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:56] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:56] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:56] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:56] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:56] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:56] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:57] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:57] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:57] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:57] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:57] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:57] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:58] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:58] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:58] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:58] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:58] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:58] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:58] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:59] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:59] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:59] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:59] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:59] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:59] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:08:59] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:00] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:00] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:00] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:00] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:00] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:00] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:00] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:01] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:01] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:01] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:01] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:01] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:01] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:01] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:02] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:02] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:02] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:02] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:02] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:02] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:02] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:03] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:03] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:03] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:03] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:03] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:03] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:03] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:07] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:07] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:07] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:07] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:07] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:07] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:22] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:22] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:33] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:33] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:33] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:33] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:33] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:33] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:33] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:34] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:34] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:34] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:34] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:34] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:34] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:34] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:35] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:35] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:35] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:35] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:35] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:35] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:35] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:36] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:36] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:36] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:36] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:36] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:36] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:36] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:37] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:37] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:37] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:37] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:37] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:37] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:37] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:38] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:38] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:38] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:38] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:38] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:38] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:38] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:39] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:39] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:39] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:39] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:39] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:39] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:39] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:40] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:40] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:40] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:40] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:40] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:40] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:40] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:41] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:41] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:41] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:41] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:41] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:41] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:42] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:42] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:42] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:42] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:42] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:42] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:42] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:43] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:43] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:43] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:43] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:43] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:43] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:43] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:44] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:44] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:44] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:44] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:44] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:44] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:44] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:45] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:45] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:45] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:45] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:45] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:45] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:45] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:46] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:46] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:46] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:46] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:46] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:46] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:46] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:47] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:47] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:47] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:47] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:47] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:47] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:48] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:48] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:48] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:48] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:48] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:48] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:48] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:49] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:49] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:49] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:49] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:49] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:49] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:49] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:50] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:50] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:50] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:50] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:50] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:50] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:50] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:51] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:51] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:51] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:51] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:51] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:51] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:51] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:52] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:52] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:52] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:52] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:52] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:52] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:53] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:53] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:53] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:53] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:53] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:53] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:53] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:54] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:54] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:54] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:54] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:54] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:54] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:54] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:55] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:55] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:55] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:55] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:55] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:55] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:55] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:56] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:56] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:56] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:56] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:56] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:56] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:56] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:57] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:57] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:57] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:57] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:57] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:57] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:58] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:58] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:58] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:58] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:58] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:58] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:58] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:59] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:59] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:59] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:59] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:59] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:59] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:09:59] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:00] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:00] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:00] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:00] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:00] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:00] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:00] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:01] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:01] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:01] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:01] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:01] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:01] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:01] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:02] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:02] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:02] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:02] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:02] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:02] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:03] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:03] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:03] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:03] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:03] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:03] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:03] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:04] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:05] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:06] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:07] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:07] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:07] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:07] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:07] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:07] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:07] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:08] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:09] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:10] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:11] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:12] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:13] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:14] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:15] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:16] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:17] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:18] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:19] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:20] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:21] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:22] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:22] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:22] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:22] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:22] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:22] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:23] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:24] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:25] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:26] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:27] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:28] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:29] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:30] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:31] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:32] (user_structure) 
+
+ 
+
+[21/Apr/2017:23:10:39] (user_structure) 
+Creation Of Excel File (time):1492796433.2118
+Excel Object Loaded or Not ?? :Loaded   ExcelFileName: C:\xampp\htdocs\data_migration\onb\uonb/../output/uonb/15170421193600.xlsx 
+
+[21/Apr/2017:23:10:39] (user_structure) 
+Total Creation Time(sec):6.0305Seconds
+Memory usage While Processing Excel File :23:10:39 Current memory usage: 37.75 MB
+Testing Mode: 0 
+

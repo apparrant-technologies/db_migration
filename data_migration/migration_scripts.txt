@@ -1,0 +1,3 @@
+php onb\uonb\user_structure.php db=slave school_id=1270 type=demo mongo=n debug=1 mail=saurabhchhabra018@gmail.com batch=5
+
+php onb\sonb\school_structure.php db=slave school_id=1270 type=demo mongo=n debug=1 mail=saurabhchhabra018@gmail.com

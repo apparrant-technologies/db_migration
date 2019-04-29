@@ -1,0 +1,55 @@
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[21/Apr/2017:22:24:06] (user_structure) 
+Program Execution Starts 
+ +-+-+-+-+-+-+-+ +-+-+-+-+-+-+-+
+ |S|A|U|R|A|B|H| |C|H|H|A|B|R|A|
+ +-+-+-+-+-+-+-+ +-+-+-+-+-+-+-+
+
+
+[21/Apr/2017:22:24:07] (user_structure) 
+******* Called Form Command Line (CLI) Script********** 
+
+Notice: Undefined variable: toDecrypt in C:\xampp\htdocs\data_migration\encryption\DecryptionClass.php on line 47
+
+
+   ____   __    ____   ___    __    ____   ___    ___    _  __        __  ___   ____  _____   ___    ___  ______   ____  ____    _  __
+  / __/  / /   /  _/  / _ \  / /   / __/  / _ |  / _ \  / |/ /       /  |/  /  /  _/ / ___/  / _ \  / _ |/_  __/  /  _/ / __ \  / |/ /
+ / _/   / /__ _/ /   / ___/ / /__ / _/   / __ | / , _/ /    /       / /|_/ /  _/ /  / (_ /  / , _/ / __ | / /    _/ /  / /_/ / /    / 
+/_/    /____//___/  /_/    /____//___/  /_/ |_|/_/|_| /_/|_/       /_/  /_/  /___/  \___/  /_/|_| /_/ |_|/_/    /___/  \____/ /_/|_/  
+                                                                                                                                      
+
+***************DATA***********MIGRATION*************
+***********************BY********************
+
+
+******************************************************* 
+22:24:06 Library Loaded 
+******************************************************* 
+ +-+-+-+-+-+-+-+ +-+-+-+-+-+-+-+
+ |S|A|U|R|A|B|H| |C|H|H|A|B|R|A|
+ +-+-+-+-+-+-+-+ +-+-+-+-+-+-+-+
+
+
+Params 1 : migration
+
+Params 2 : 35
+
+Params 3 : live
+
+Params 4 : 4
+
+Notice: Undefined variable: debug in C:\xampp\htdocs\data_migration\onb\uonb\user_structure.php on line 86
+
+Notice: Undefined variable: debug in C:\xampp\htdocs\data_migration\onb\uonb\user_structure.php on line 86
+
+[21/Apr/2017:22:24:07] (user_structure) 
+
+Sql Query Start Time Checking Rules [22:24:07 2017-04-21] 
+
+[21/Apr/2017:22:24:07] (user_structure) 
+
+22:24:07  No School ID Was Found for Migrating
+ So Excel File won't be Generated 
+
