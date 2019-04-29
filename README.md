@@ -27,4 +27,3 @@ PHP CORE MODULE
 
 ## License
 
-This project is licensed To [Fliplearn](http://www.fliplearn.com)
